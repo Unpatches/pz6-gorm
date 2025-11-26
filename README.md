@@ -68,4 +68,15 @@ GORM — это самая популярная ORM-библиотека на я
 
 
 ## Запуск и проверка
-<img width="666" height="603" alt="image" src="https://github.com/user-attachments/assets/027ba0a4-9861-44f3-8168-f6efbad0516c" />
+### GET
+```
+http://217.119.129.232:8081/health
+```
+<img width="393" height="459" alt="Снимок экрана 2025-11-27 в 00 42 49" src="https://github.com/user-attachments/assets/88a4b5b3-4a26-41e4-b4e2-c35e4fb6b29e" />
+
+### POST
+```
+http://217.119.129.232:8081/users
+```
+<img width="888" height="844" alt="image" src="https://github.com/user-attachments/assets/4ef644c6-c0e7-4866-b54c-9f8d5b367cc4" />
+
